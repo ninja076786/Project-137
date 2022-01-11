@@ -1,0 +1,24 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+#start,#status,#num_of_obj{
+    font-size:18px;
+
+}
+.footer{
+    position:fixed;
+    color:black;
+    bottom:0;
+    width:100%;
+    background-color:gainsboro;
+    text-align:center;
+    line-height:3;
+}
+canvas{
+    border:2px dotted skyblue;
+    border-radius:10px;
+    margin-top:130px;
+    box-shadow: 5px 5px 5px lightcoral;
+}
